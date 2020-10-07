@@ -3,3 +3,4 @@ This directory contains modelling code and data sets:
 
 LR - Linear Regression (Matlab script) and data in .xls format
 MLR - Multinomial Logistic Regression (R script) and data (pub_data) in .csv format
+Parameter selection results 
